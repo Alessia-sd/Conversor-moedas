@@ -10,7 +10,7 @@ Este é um projeto que permite converter valores entre três moedas: **EUR**, **
 1. Abrir um terminal
 2. Extrair tudo da pasta "conversor_moeda_AQUI" em seguida vá até à pasta do projeto "conversor_moeda"
 ```bash 
-cd conversor_moeda_AQUI
+cd conversor_moeda
 ```
 3. Instalar o Streamlit (caso ainda não o tenhas)
 ```bash 
