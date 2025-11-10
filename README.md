@@ -8,7 +8,7 @@ Este é um projeto que permite converter valores entre três moedas: **EUR**, **
 ## Como correr o projeto
 
 1. Abrir um terminal
-2. Vai até à pasta do projeto
+2. Vai até à pasta do projeto em zip depois de extrair tudo.
 ```bash 
 cd conversor_moeda
 ```
