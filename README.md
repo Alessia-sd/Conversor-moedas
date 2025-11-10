@@ -1,4 +1,4 @@
-# Conversor de Moeda em Python 
+# Conversor de Moeda em Python
 
 Este é um projeto que permite converter valores entre três moedas: **EUR**, **USD** e **GBP**.
 
